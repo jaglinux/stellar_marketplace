@@ -4,5 +4,5 @@ HorizonService interacts with Stellar C# sdk https://github.com/elucidsoft/dotne
 Created fork of sdk to implement test account funding.
 https://github.com/jaglinux/dotnet-stellar-sdk
 
-##ContractService
+## ContractService
 Contracts are defined here, HorizonService is called to interact with Stellar Blockchain
