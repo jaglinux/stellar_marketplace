@@ -6,3 +6,6 @@ https://github.com/jaglinux/dotnet-stellar-sdk
 
 ## ContractService
 Contracts are defined here, HorizonService is called to interact with Stellar Blockchain
+
+## TokenService
+Service to create tokens required for the project.
